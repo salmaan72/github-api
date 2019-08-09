@@ -1,0 +1,1 @@
+export const githubDomain = 'https://api.github.com';
